@@ -1,2 +1,17 @@
-# linkedlistsample
-Sample project for creating linked list using java
+# Singly Linked List
+
+This project is implementation of singly linked list using Java. Developed singly linked list aims following operations 
+  - Append element to linked list
+  - Delete last element
+  - Delete all elements greater than given integer(Note: For linked list of type int)
+
+# Dependencies
+  - Java JDK 7 or 8
+  - Maven
+
+# How to run project?
+  - Clone project from git
+  - Go to directory datastructure
+  - You will find pom.xml there
+  - Run mvn clean install command on that folder
+  - Once done run test cases class
