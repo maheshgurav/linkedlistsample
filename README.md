@@ -9,9 +9,12 @@ This project is implementation of singly linked list using Java. Developed singl
   - Java JDK 7 or 8
   - Maven
 
+# Important Note
+  - Before running this project you must have Java and Maven installed on your machine
+
 # How to run project?
   - Clone project from git
   - Go to directory datastructure
   - You will find pom.xml there
   - Run mvn clean install command on that folder
-  - Once done run test cases class
+  - Once done run test case using command mvn test
